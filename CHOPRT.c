@@ -2,9 +2,9 @@
 
 int main(void) {
 	// your code goes here
-	int t;
-	scanf("%d",&t);
-  while(t--){
+	int test_cases;
+	scanf("%d",&test_cases);
+  while(test_cases--){
     long int a,b;
 	scanf("%d",&a);
 	scanf("%d",&b);
