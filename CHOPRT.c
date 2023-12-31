@@ -1,7 +1,6 @@
 #include <stdio.h>
 
 int main(void) {
-	// your code goes here
 	int test_cases;
 	scanf("%d",&test_cases);
   while(test_cases--){
