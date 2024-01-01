@@ -5,7 +5,6 @@ int main() {
 	int T;
 	scanf("%d", &T);
 	while (T--) {
-		// Read the input a, b
 		int a, b;
 		scanf("%d %d", &a, &b);
 
